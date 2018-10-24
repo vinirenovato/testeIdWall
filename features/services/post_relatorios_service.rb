@@ -8,7 +8,7 @@ class PostRelatorios
   base_uri 'https://api-v2.idwall.co'
 
   def post_relatorios(template)
-    self.class.post('/relatorios',:body => template.to_json)
+    self.class.post('/relatorios', :body => template.to_json)
   end
 
   def create_json(data_nasc, nome, numero)

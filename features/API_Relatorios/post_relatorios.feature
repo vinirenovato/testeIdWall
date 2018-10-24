@@ -23,4 +23,4 @@ Funcionalidade: Criação do POST de relatorios da API
 
     Exemplos:
       | data_nasc    | nome                         | numero        | status_code | mensagem |
-      | "19/07/1992" | "Vinicius Renovato da Silva" | "40325306885" | 200         | Válido.  |
+      | "19/07/1992" | "Vinicius Renovato da Silva" | "40325306885" | 200         | "Válido."  |
