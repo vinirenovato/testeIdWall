@@ -1,0 +1,8 @@
+{
+  "matriz": "consultaPessoaDefault",
+  "parametros": {
+    "cpf_data_de_nascimento": "",
+    "cpf_nome": "",
+    "cpf_numero": ""
+  }
+}
