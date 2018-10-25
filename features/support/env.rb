@@ -7,5 +7,4 @@ require 'byebug'
 
 Before do
   $post_relatorios = PostRelatorios.new
-
 end
